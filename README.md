@@ -1,5 +1,6 @@
-# -
-校名、英文名、校徽、地址、2021软科排名与总分、办学层次、学校类型的python、json、csv数据文件
+# Chinese_Universities 中国528所大学基本信息
+中国528所高校的校名、英文名、校徽、地址、2021软科排名与总分、办学层次、学校类型的python、json、csv数据文件
+528 universities's datas of names, logos, ranks, locations, level, types, in a format like json or csv.
 
 1.为什么要建立这个小项目？
   自己想研究下是不是学校越'nb'，然后青年大学习的表现就越不好（正经人）。但很可惜我发现青年大学习的数据并不好获得，而且网上并没有现成数据源可供我白嫖。
