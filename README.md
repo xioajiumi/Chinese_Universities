@@ -17,4 +17,8 @@
 
 4.如何使用？
   没有编程基础的可以使用csv文件转为xls使用。
-  熟悉python可以load pkl文件，得到一个list，里面为582个实例。可以使用dir()来获取["name","name_eng","rank","total_score", "school_level","type","note", "location","link","logo"]等信息。
+  熟悉python可以load pkl文件，得到一个list，里面为582个实例。
+  可以使用dir()来获取["name","name_eng","rank","total_score", "school_level","type","note", "location","link","logo"]等信息。
+  其他语言可以使用json数据和CSV数据。
+  csv数据的表头为["name","name_eng","rank","total_score", "school_level","type","note", "location","link","logo"]，共583行。
+  json数据格式为：{"rank": xx, "logo":xx, ....."link": "xx"}{"rank": 2, ...., "link": "https://www.pku.edu.cn/\n"}
