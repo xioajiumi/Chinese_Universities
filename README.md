@@ -1,5 +1,5 @@
 # Chinese_Universities 中国528所大学基本信息
-中国528所高校的校名、英文名、校徽、地址、2021软科排名与总分、办学层次、学校类型的python、json、csv数据文件
+中国528所高校的校名、英文名、校徽、地址、2021软科排名与总分、办学层次、学校类型、官网链接的python、json、csv数据文件
 528 universities's datas of names, logos, ranks, locations, level, types, in a format like json or csv.
 
 1.为什么要建立这个小项目？
