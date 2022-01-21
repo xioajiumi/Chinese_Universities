@@ -1,14 +1,14 @@
 # Chinese_Universities 中国528所大学基本信息
 中国528所高校的校名、英文名、校徽、地址、2021软科排名与总分、办学层次、学校类型、官网链接的python、json、csv数据文件
-528 universities's datas of names, logos, ranks, locations, level, types, in a format like json or csv.
+528 universities's datas about names, logos, ranks, locations, level, types, websites etc. In a format like json or csv.
 
 1.为什么要建立这个小项目？
-  自己想研究下是不是学校越'nb'，然后青年大学习就越'垃圾'（逻辑没问题吧🤣）。但很可惜我发现网上并没有现成大学信息数据源可供我白嫖。
+  自己想研究下是不是学校越'nb'，然后青年大学习就越'垃圾'（逻辑没问题吧🤣）。但很可惜网上并没有现成大学信息数据源可供我白嫖。
   所以是时候自己动手来为开源运动付出自己的努力了。
 
 2.这个项目有什么用？
-  这个项目的信息并不多，但起的作用却是基础性和连结性的。把现成的数据和Google或Bing的search API结合起来，可能会大大减少你的精力消耗。
-  也许你像我一样需要进行一些学校层次的数据分析，去干一些无聊的重复性工作。
+  这个项目的信息并不多，但起的作用却是基础性和连结性的。把现成的数据和Google或Bing的search API结合起来，可能会大大减少你的精力消耗，有了官网链接也方便爬虫批量分析。
+  也许你像我一样需要进行一些学校层次的数据分析，但是为了取得数据需要干一些无聊的重复性工作😪。
   
 3.这个项目的未来发展？
   1.丰富度。以后可能会加上官网链接、经费等，从横向纵向两个方向扩展基本信息。
