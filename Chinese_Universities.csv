@@ -1,0 +1,683 @@
+name,name_eng,rank,total_score,school_level,type,note,location,link,logo
+清华大学,Tsinghua University,1,969.2,37.9,综合,一流大学A类/985/211,北京,"https://www.tsinghua.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/27532357.png
+北京大学,Peking University,2,855.3,36.1,综合,一流大学A类/985/211,北京,"https://www.pku.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/86350223.png
+浙江大学,Zhejiang University,3,768.7,34.3,综合,一流大学A类/985/211,浙江,"https://www.zju.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/88311656.png
+上海交通大学,Shanghai Jiao Tong University,4,723.4,35.5,综合,一流大学A类/985/211,上海,"https://www.sjtu.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/27403919.png
+南京大学,Nanjing University,5,654.8,35.1,综合,一流大学A类/985/211,江苏,"https://www.nju.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/44696062.png
+复旦大学,Fudan University,6,649.7,36.6,综合,一流大学A类/985/211,上海,"https://www.fudan.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/28312850.png
+中国科学技术大学,University of Science and Technology of China,7,577.0,40.0,理工,一流大学A类/985/211,安徽,"https://www.ustc.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/50132214.png
+华中科技大学,Huazhong University of Science and Technology,8,574.3,32.1,综合,一流大学A类/985/211,湖北,"https://www.hust.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/69664504.png
+武汉大学,Wuhan University,9,567.9,31.8,综合,一流大学A类/985/211,湖北,"https://www.whu.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/46182017.png
+西安交通大学,Xi'an Jiaotong University,10,537.9,34.5,综合,一流大学A类/985/211,陕西,"http://www.xjtu.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/77584005.png
+哈尔滨工业大学,Harbin Institute of Technology,11,522.6,32.7,理工,一流大学A类/985/211,黑龙江,"https://www.hit.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/88331082.png
+中山大学,Sun Yat-Sen University,12,519.3,30.9,综合,一流大学A类/985/211,广东,"http://www.sysu.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/46293852.png
+北京师范大学,Beijing Normal University,13,518.3,34.8,师范,一流大学A类/985/211,北京,"https://www.bnu.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/38816505.png
+四川大学,Sichuan University,14,516.6,30.7,综合,一流大学A类/985/211,四川,"https://www.scu.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/75651370.png
+北京航空航天大学,Beihang University,15,513.8,32.8,理工,一流大学A类/985/211,北京,"https://www.buaa.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/22403670.png
+同济大学,Tongji University,16,508.3,33.2,理工,一流大学A类/985/211,上海,"https://www.tongji.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/39174907.png
+东南大学,Southeast University,17,488.1,34.3,综合,一流大学A类/985/211,江苏,"https://www.seu.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/82819451.png
+中国人民大学,Renmin University of China,18,487.8,34.5,综合,一流大学A类/985/211,北京,"https://www.ruc.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/88617939.png
+北京理工大学,Beijing Institute of Technology,19,474.0,32.3,理工,一流大学A类/985/211,北京,"https://www.bit.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/85386135.png
+南开大学,Nankai University,20,465.3,31.5,综合,一流大学A类/985/211,天津,"https://www.nankai.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/44629152.png
+山东大学,Shandong University,21,447.0,28.8,综合,一流大学A类/985/211,山东,"https://www.sdu.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/97189370.png
+天津大学,Tianjin University,22,444.3,32.7,理工,一流大学A类/985/211,天津,"http://www.tju.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/74813674.png
+中南大学,Central South University,23,442.2,30.8,综合,一流大学A类/985/211,湖南,"https://www.csu.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/65984093.png
+吉林大学,Jilin University,24,435.7,30.4,综合,一流大学A类/985/211,吉林,"https://www.jlu.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/76557044.png
+西北工业大学,Northwestern Polytechnical University,25,430.5,32.4,理工,一流大学A类/985/211,陕西,"https://www.nwpu.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/20384817.png
+厦门大学,Xiamen University,26,427.8,32.7,综合,一流大学A类/985/211,福建,"https://www.xmu.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/14008229.png
+华南理工大学,South China University of Technology,27,419.8,30.5,理工,一流大学A类/985/211,广东,"https://www.scut.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/69348939.png
+大连理工大学,Dalian University of Technology,28,418.2,30.2,理工,一流大学A类/985/211,辽宁,"https://www.dlut.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/54289554.png
+华东师范大学,East China Normal University,29,401.8,35.2,师范,一流大学A类/985/211,上海,"https://www.ecnu.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/47430452.png
+中国农业大学,China Agricultural University,30,400.4,31.8,农业,一流大学A类/985/211,北京,"https://www.cau.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/48410070.png
+电子科技大学,University of Electronic Science and Technology of China,31,398.8,32.4,理工,一流大学A类/985/211,四川,"https://www.uestc.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/55538407.png
+湖南大学,Hunan University,32,393.5,31.4,综合,一流大学B类/985/211,湖南,"https://www.hnu.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/79015808.png
+北京科技大学,University of Science and Technology Beijing,33,379.4,32.2,理工,一流学科/211,北京,"https://www.ustb.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/96310183.png
+重庆大学,Chongqing University,34,365.5,29.9,综合,一流大学A类/985/211,重庆,"https://www.cqu.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/79822387.png
+南京航空航天大学,Nanjing University of Aeronautics and Astronautics,35,358.6,28.6,理工,一流学科/211,江苏,"https://www.nuaa.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo-jpg/4506696400.jpg
+东北大学,Northeastern University,36,356.1,32.2,理工,一流大学B类/985/211,辽宁,"https://www.neu.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/79513869.png
+南京理工大学,Nanjing University of Science and Technology,37,356.0,30.9,理工,一流学科/211,江苏,"http://www.njust.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/38974419.png
+西安电子科技大学,Xidian University,38,355.1,30.2,理工,一流学科/211,陕西,"https://www.xidian.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/88267454.png
+兰州大学,Lanzhou University,39,353.4,30.6,综合,一流大学A类/985/211,甘肃,"https://www.lzu.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/84317715.png
+北京交通大学,Beijing jiaotong University,40,349.9,32.0,理工,一流学科/211,北京,"https://www.bjtu.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/60987143.png
+南方科技大学,Southern University of Science and Technology,41,345.8,28.9,综合,,广东,"http://www.sustech.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/22950445.png
+华中农业大学,Huazhong Agricultural University,42,338.5,28.5,农业,一流学科/211,湖北,"https://www.hzau.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/20950268.png
+上海大学,Shanghai University,43,333.0,31.7,综合,一流学科/211,上海,"https://www.shu.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/94139385.png
+苏州大学,Soochow University (China),44,327.0,28.7,综合,一流学科/211,江苏,"https://www.suda.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/44374737.png
+华东理工大学,East China University of Science and Technology,45,324.5,29.7,理工,一流学科/211,上海,"https://www.ecust.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/93042584.png
+华中师范大学,Central China Normal University,46,322.0,30.6,师范,一流学科/211,湖北,"https://www.ccnu.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/58510682.png
+南京师范大学,Nanjing Normal University,47,321.3,29.5,师范,一流学科/211,江苏,"https://www.njnu.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/27072054.png
+中国地质大学（武汉）,China University of Geosciences (Wuhan),48,320.2,29.9,理工,一流学科/211,湖北,"https://www.cug.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/25952542.png
+东北师范大学,Northeast Normal University,49,319.7,33.1,师范,一流学科/211,吉林,"https://www.nenu.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/12611652.png
+哈尔滨工程大学,Harbin Engineering University,50,319.0,29.3,理工,一流学科/211,黑龙江,"http://www.hrbeu.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/86980791.png
+西南交通大学,Southwest Jiaotong University,51,318.0,28.7,理工,一流学科/211,四川,"https://www.swjtu.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/29218271.png
+南京农业大学,Nanjing Agricultural University,52,316.1,29.2,农业,一流学科/211,江苏,"http://www.njau.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/43891811.png
+郑州大学,Zhengzhou University,53,312.8,26.3,综合,一流大学B类/211,河南,"http://www.zzu.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/68963418.png
+北京邮电大学,Beijing University of Posts and Telecommunications,54,312.5,30.8,理工,一流学科/211,北京,"https://www.bupt.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/15344334.png
+武汉理工大学,Wuhan University of Technology,55,312.2,28.0,理工,一流学科/211,湖北,"https://www.whut.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/16563358.png
+中国海洋大学,Ocean University of China,56,311.0,30.3,综合,一流大学A类/985/211,山东,"http://www.ouc.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/53553512.png
+暨南大学,Jinan University,57,307.4,29.1,综合,一流学科/211,广东,"https://jnu.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/78175531.png
+中国石油大学（北京）,China University of Petroleum - Beijing,58,307.3,32.5,理工,一流学科/211,北京,"https://www.cup.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo-jpg/6662428200.jpg
+北京工业大学,Beijing University of Technology,59,306.0,30.0,理工,一流学科/211,北京,"https://www.bjut.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/10211810.png
+河海大学,Hohai University,60,303.4,31.3,理工,一流学科/211,江苏,"https://www.hhu.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/76817036.png
+中国矿业大学,China University of Mining and Technology - Xuzhou,61,301.6,28.3,理工,一流学科/211,江苏,"http://www.cumt.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/15914272.png
+北京化工大学,Beijing University of Chemical Technology,62,296.7,28.2,理工,一流学科/211,北京,"https://www.buct.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/46052210.png
+中国地质大学（北京）,China University of Geosciences (Beijing),63,295.5,32.7,理工,一流学科/211,北京,"https://www.cugb.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/21004246.png
+西北大学,Northwest University,64,293.0,25.6,综合,一流学科/211,陕西,"https://www.nwu.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/15797720.png
+江南大学,Jiangnan University,65,292.9,27.4,综合,一流学科/211,江苏,"http://gs.jiangnan.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/92884896.png
+上海科技大学,ShanghaiTech University,66,288.7,33.4,综合,,上海,"https://www.shanghaitech.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/46886554.png
+中国石油大学（华东）,China University of Petroleum (Huadong),67,287.4,27.6,理工,一流学科/211,山东,"https://www.upc.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/92620812.png
+西南大学,Southwest University,68,286.5,26.4,综合,一流学科/211,重庆,"http://www.swu.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/68012227.png
+中国矿业大学（北京）,China University of Mining and Technology - Beijing,69,285.5,31.2,理工,一流学科/211,北京,"http://www.cumt.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/61910568.png
+深圳大学,Shenzhen University,70,280.4,25.5,综合,,广东,"https://www.szu.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/88823168.png
+陕西师范大学,Shaanxi Normal University,71,280.1,33.2,师范,一流学科/211,陕西,"https://www.snnu.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/22611416.png
+江苏大学,Jiangsu University,72,276.9,26.5,综合,,江苏,"https://www.ujs.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/28154997.png
+浙江工业大学,Zhejiang University of Technology,73,275.6,27.6,理工,,浙江,"https://www.zjut.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/19897860.png
+北京林业大学,Beijing Forestry University,74,275.0,28.5,林业,一流学科/211,北京,"http://www.bjfu.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/43861010.png
+华南师范大学,South China Normal University,75,274.7,27.4,师范,一流学科/211,广东,"https://www.scnu.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/47317168.png
+西北农林科技大学,Northwest A&amp;F University,76,273.7,27.9,农业,一流大学B类/985/211,陕西,"https://www.nwsuaf.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/25536937.png
+扬州大学,Yangzhou University,77,269.5,25.9,综合,,江苏,"https://www.yzu.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/61656418.png
+南昌大学,Nanchang University,78,268.9,27.3,综合,一流学科/211,江西,"http://www.ncu.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/25119833.png
+福州大学,Fuzhou University,79,267.7,28.6,理工,一流学科/211,福建,"https://www.fzu.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/77372849.png
+华北电力大学,North China Electric Power University,80,263.2,27.1,理工,一流学科/211,北京,"https://www.ncepu.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/13312897.png
+东华大学,Donghua University,81,262.8,28.9,理工,一流学科/211,上海,"https://www.dhu.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/41255312.png
+合肥工业大学,Hefei University of Technology,82,262.7,26.2,理工,一流学科/211,安徽,"https://www.hfut.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/55155531.png
+云南大学,Yunnan University,83,262.1,29.5,综合,一流大学B类/211,云南,"https://www.ynu.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/31586909.png
+宁波大学,Ningbo University,84,261.4,27.7,综合,一流学科,浙江,"https://www.nbu.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/83052172.png
+首都师范大学,Capital Normal University,85,261.1,29.9,师范,一流学科,北京,"https://www.cnu.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/66860048.png
+湖南师范大学,Hunan Normal University,86,259.6,27.9,师范,一流学科/211,湖南,"https://www.hunnu.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/60718001.png
+南京工业大学,Nanjing Tech University,87,259.5,25.7,理工,,江苏,"http://www.njtech.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/18208126.png
+长安大学,Chang'an University,88,250.2,28.1,理工,一流学科/211,陕西,"http://www.xahu.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/22876250.png
+福建师范大学,Fujian Normal University,89,248.2,27.0,师范,,福建,"https://www.fjnu.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/63841113.png
+安徽大学,Anhui University,90,243.1,26.0,综合,一流学科/211,安徽,"https://www.ahu.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/13378567.png
+南京信息工程大学,Nanjing University of Information Science &amp; Technology,91,240.9,23.5,理工,一流学科,江苏,"https://www.nuist.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/59759082.png
+上海理工大学,University of Shanghai for Science and Technology,92,240.7,28.7,理工,,上海,"https://www.usst.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/13304999.png
+华南农业大学,South China Agricultural University,93,238.3,23.4,农业,,广东,"https://www.scau.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/90236014.png
+广西大学,Guangxi University,94,237.0,27.3,综合,一流学科/211,广西,"https://www.gxu.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/22864185.png
+南京邮电大学,Nanjing University of Posts and Telecommunications,95,235.7,25.5,理工,一流学科,江苏,"https://www.njupt.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/19754745.png
+燕山大学,Yanshan University,95,235.7,26.7,理工,,河北,"https://www.ysu.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/79375733.png
+河南大学,Henan University,97,234.6,24.6,综合,一流学科,河南,"https://www.henu.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/80055117.png
+湖北大学,Hubei University,98,232.9,23.7,综合,,湖北,"https://www.hubu.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/88139185.png
+广州大学,Guangzhou University,99,232.7,23.9,综合,,广东,"http://www.gzhu.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/65301006.png
+青岛大学,Qingdao University,100,231.4,25.2,综合,,山东,"https://www.qdu.edu.cn/
+",https://www.shanghairanking.cn/_uni/logo/17947921.png
+湘潭大学,Xiangtan University,101,229.9,,综合,,湖南,https://www.xtu.edu.cn/,https://www.shanghairanking.cn/_uni/logo/94973363.png
+广东工业大学,Guangdong University of Technology,102,229.6,,理工,,广东,,https://www.shanghairanking.cn/_uni/logo/47705257.png
+浙江师范大学,Zhejiang Normal University,103,229.2,,师范,,浙江,,https://www.shanghairanking.cn/_uni/logo/34648327.png
+大连海事大学,Dalian Maritime University,104,228.4,,理工,一流学科/211,辽宁,,https://www.shanghairanking.cn/_uni/logo/30113036.png
+上海师范大学,Shanghai Normal University,105,227.3,,师范,,上海,,https://www.shanghairanking.cn/_uni/logo/69056215.png
+杭州电子科技大学,Hangzhou Dianzi University,106,226.9,,理工,,浙江,,https://www.shanghairanking.cn/_uni/logo/47982726.png
+武汉科技大学,Wuhan University of Science and Technology,107,226.6,,理工,,湖北,,https://www.shanghairanking.cn/_uni/logo/80614446.png
+南京林业大学,Nanjing Forestry University,108,225.3,,林业,一流学科,江苏,,https://www.shanghairanking.cn/_uni/logo/34561912.png
+河北工业大学,Hebei University of Technology,109,223.8,,理工,一流学科/211,天津,,https://www.shanghairanking.cn/_uni/logo/23684464.png
+山东师范大学,Shandong Normal University,109,223.8,,师范,,山东,,https://www.shanghairanking.cn/_uni/logo/91702072.png
+浙江理工大学,Zhejiang Sci-Tech University,111,221.8,,理工,,浙江,,https://www.shanghairanking.cn/_uni/logo/16934191.png
+山西大学,Shanxi University,112,221.0,,综合,,山西,,https://www.shanghairanking.cn/_uni/logo/45548865.png
+太原理工大学,Taiyuan University of Technology,113,219.8,,理工,一流学科/211,山西,,https://www.shanghairanking.cn/_uni/logo/32584796.png
+东北林业大学,Northeast Forestry University - China,114,218.9,,林业,一流学科/211,黑龙江,,https://www.shanghairanking.cn/_uni/logo/23921267.png
+河北大学,Hebei University,115,217.0,,综合,,河北,,https://www.shanghairanking.cn/_uni/logo/93335325.png
+东北农业大学,Northeast Agricultural University - China,116,216.3,,农业,一流学科/211,黑龙江,,https://www.shanghairanking.cn/_uni/logo/52533406.png
+江西师范大学,Jiangxi Normal University,117,215.5,,师范,,江西,,https://www.shanghairanking.cn/_uni/logo/81455706.png
+西安建筑科技大学,Xi'an University of Architecture and Technology,117,215.5,,理工,,陕西,,https://www.shanghairanking.cn/_uni/logo/16154228.png
+杭州师范大学,Hangzhou Normal University,119,215.2,,师范,,浙江,,https://www.shanghairanking.cn/_uni/logo/19604361.png
+内蒙古大学,Inner Mongolia University,120,214.9,,综合,一流学科/211,内蒙古,,https://www.shanghairanking.cn/_uni/logo/53570063.png
+福建农林大学,Fujian Agriculture and Forestry University,121,214.0,,农业,,福建,,https://www.shanghairanking.cn/_uni/logo/45877801.png
+江苏师范大学,Jiangsu Normal University,122,213.4,,师范,,江苏,,https://www.shanghairanking.cn/_uni/logo/43285571.png
+西安理工大学,Xi'an University of Technology,123,213.2,,理工,,陕西,,https://www.shanghairanking.cn/_uni/logo/41922592.png
+辽宁大学,Liaoning University,124,212.6,,综合,一流学科/211,辽宁,,https://www.shanghairanking.cn/_uni/logo/38214321.png
+北京建筑大学,Beijing University of Civil Engineering and Architecture,125,210.8,,理工,,北京,,https://www.shanghairanking.cn/_uni/logo/88552972.png
+安徽师范大学,Anhui Normal University,126,210.5,,师范,,安徽,,https://www.shanghairanking.cn/_uni/logo/34817561.png
+河南师范大学,Henan Normal University,127,210.4,,师范,,河南,,https://www.shanghairanking.cn/_uni/logo/83132958.png
+长沙理工大学,Changsha University of Science and Technology,128,209.5,,理工,,湖南,,https://www.shanghairanking.cn/_uni/logo/12224674.png
+昆明理工大学,Kunming University of Science and Technology,129,206.7,,理工,,云南,,https://www.shanghairanking.cn/_uni/logo/50829319.png
+新疆大学,Xinjiang University,129,206.7,,综合,一流大学B类/211,新疆,,https://www.shanghairanking.cn/_uni/logo/17029370.png
+汕头大学,Shantou University,131,206.4,,综合,,广东,,https://www.shanghairanking.cn/_uni/logo/34125242.png
+西南石油大学,Southwest Petroleum University,132,206.0,,理工,一流学科,四川,,https://www.shanghairanking.cn/_uni/logo/43387859.png
+山东科技大学,Shandong University of Science and Technology,133,204.5,,综合,,山东,,https://www.shanghairanking.cn/_uni/logo/69243726.png
+河南农业大学,Henan Agricultural University,134,204.3,,农业,,河南,,https://www.shanghairanking.cn/_uni/logo/20942432.png
+贵州大学,Guizhou University,135,201.7,,综合,一流学科/211,贵州,,https://www.shanghairanking.cn/_uni/logo/47002167.png
+华侨大学,Huaqiao University,136,201.4,,综合,,福建,,https://www.shanghairanking.cn/_uni/logo/22700357.png
+河北师范大学,Hebei Normal University,137,201.1,,师范,,河北,,https://www.shanghairanking.cn/_uni/logo/91541508.png
+黑龙江大学,Heilongjiang University,138,201.0,,综合,,黑龙江,,https://www.shanghairanking.cn/_uni/logo/73169357.png
+中国计量大学,China Jiliang University,138,201.0,,理工,,浙江,,https://www.shanghairanking.cn/_uni/logo/30667767.png
+陕西科技大学,Shaanxi University of Science and Technology,140,198.6,,理工,,陕西,,https://www.shanghairanking.cn/_uni/logo/10933822.png
+沈阳农业大学,Shenyang Agricultural University,141,196.8,,农业,,辽宁,,https://www.shanghairanking.cn/_uni/logo/71980553.png
+天津师范大学,Tianjin Normal University,142,196.5,,师范,,天津,,https://www.shanghairanking.cn/_uni/logo/97894665.png
+湖北工业大学,Hubei University of Technology,143,196.3,,理工,,湖北,,https://www.shanghairanking.cn/_uni/logo/28021393.png
+海南大学,Hainan University,144,196.2,,综合,一流学科/211,海南,,https://www.shanghairanking.cn/_uni/logo/32937649.png
+济南大学,University of Jinan,145,195.4,,综合,,山东,,https://www.shanghairanking.cn/_uni/logo/68479674.png
+山东农业大学,Shandong Agricultural University,146,194.7,,农业,,山东,,https://www.shanghairanking.cn/_uni/logo/29659511.png
+常州大学,Changzhou University,147,194.6,,理工,,江苏,,https://www.shanghairanking.cn/_uni/logo/80008528.png
+温州大学,Wenzhou University,147,194.6,,综合,,浙江,,https://www.shanghairanking.cn/_uni/logo/87896146.png
+重庆邮电大学,Chongqing University of Posts and Telecommunications,149,193.7,,理工,,重庆,,https://www.shanghairanking.cn/_uni/logo/60895367.png
+齐鲁工业大学,Qilu University of Technology,150,192.6,,理工,,山东,,https://www.shanghairanking.cn/_uni/logo/90803100.png
+曲阜师范大学,Qufu Normal University,151,189.8,,师范,,山东,,https://www.shanghairanking.cn/_uni/logo/69697043.png
+武汉工程大学,Wuhan Institute of Technology,152,188.6,,理工,,湖北,,https://www.shanghairanking.cn/_uni/logo/44707995.png
+湖南农业大学,Hunan Agricultural University,153,187.9,,农业,,湖南,,https://www.shanghairanking.cn/_uni/logo/66911347.png
+天津工业大学,Tiangong University,154,187.4,,理工,一流学科,天津,,https://www.shanghairanking.cn/_uni/logo/66317793.png
+安徽农业大学,Anhui Agricultural University,155,187.0,,农业,,安徽,,https://www.shanghairanking.cn/_uni/logo/63075474.png
+江苏科技大学,Jiangsu University of Science and Technology,156,186.8,,理工,,江苏,,https://www.shanghairanking.cn/_uni/logo/20300251.png
+浙江农林大学,Zhejiang A&amp;F University,157,186.0,,林业,,浙江,,https://www.shanghairanking.cn/_uni/logo/72636185.png
+北方工业大学,North China University of Technology,158,185.7,,理工,,北京,,https://www.shanghairanking.cn/_uni/logo/83653605.png
+广西师范大学,Guangxi Normal University,159,184.7,,师范,,广西,,https://www.shanghairanking.cn/_uni/logo/54671948.png
+吉林农业大学,Jilin Agricultural University,160,184.4,,农业,,吉林,,https://www.shanghairanking.cn/_uni/logo/12157432.png
+青岛科技大学,Qingdao University of Science and Technology,161,183.8,,理工,,山东,,https://www.shanghairanking.cn/_uni/logo/56581722.png
+四川农业大学,Sichuan Agricultural University,162,183.3,,农业,一流学科/211,四川,,https://www.shanghairanking.cn/_uni/logo/22750663.png
+西北师范大学,Northwest Normal University China,162,183.3,,师范,,甘肃,,https://www.shanghairanking.cn/_uni/logo/37657107.png
+南通大学,Nantong University,164,183.1,,综合,,江苏,,https://www.shanghairanking.cn/_uni/logo/39196558.png
+石河子大学,Shihezi University,165,182.8,,综合,一流学科/211,新疆,,https://www.shanghairanking.cn/_uni/logo/87170098.png
+上海海洋大学,Shanghai Ocean University,166,182.5,,农业,一流学科,上海,,https://www.shanghairanking.cn/_uni/logo/47534017.png
+三峡大学,China Three Gorges University,167,179.8,,综合,,湖北,,https://www.shanghairanking.cn/_uni/logo/50293135.png
+安徽工业大学,Anhui University of Technology,168,178.6,,理工,,安徽,,https://www.shanghairanking.cn/_uni/logo/48772206.png
+河南理工大学,Henan Polytechnic University,169,177.7,,理工,,河南,,https://www.shanghairanking.cn/_uni/logo/73183299.png
+宁夏大学,Ningxia University,170,176.4,,综合,一流学科/211,宁夏,,https://www.shanghairanking.cn/_uni/logo/26171919.png
+西安科技大学,Xi'an University of Science and Technology,171,175.0,,理工,,陕西,,https://www.shanghairanking.cn/_uni/logo/98750379.png
+上海海事大学,Shanghai Maritime University,172,174.6,,理工,,上海,,https://www.shanghairanking.cn/_uni/logo/27308396.png
+成都理工大学,Chengdu University of Technology,173,174.2,,理工,一流学科,四川,,https://www.shanghairanking.cn/_uni/logo/46566063.png
+南昌航空大学,Nanchang Hangkong University,174,173.7,,理工,,江西,,https://www.shanghairanking.cn/_uni/logo/58177572.png
+长春理工大学,Changchun University of Science and Technology,175,172.7,,理工,,吉林,,https://www.shanghairanking.cn/_uni/logo/89241049.png
+辽宁师范大学,Liaoning Normal University,176,172.5,,师范,,辽宁,,https://www.shanghairanking.cn/_uni/logo/95713009.png
+西南科技大学,Southwest University of Science and Technology,177,172.1,,理工,,四川,,https://www.shanghairanking.cn/_uni/logo/36892794.png
+河北农业大学,Hebei Agricultural University,178,171.9,,农业,,河北,,https://www.shanghairanking.cn/_uni/logo/80338654.png
+中北大学,North University of China,179,171.7,,理工,,山西,,https://www.shanghairanking.cn/_uni/logo/11211551.png
+青海大学,Qinghai University,180,171.6,,综合,一流学科/211,青海,,https://www.shanghairanking.cn/_uni/logo/68094541.png
+集美大学,Jimei University,181,170.7,,综合,,福建,,https://www.shanghairanking.cn/_uni/logo/50079480.png
+武汉纺织大学,Wuhan Textile University,182,170.4,,理工,,湖北,,https://www.shanghairanking.cn/_uni/logo/90958165.png
+天津理工大学,Tianjin University of Technology,183,170.3,,理工,,天津,,https://www.shanghairanking.cn/_uni/logo/41797414.png
+四川师范大学,Sichuan Normal University,184,170.1,,师范,,四川,,https://www.shanghairanking.cn/_uni/logo/20160347.png
+云南师范大学,Yunnan Normal University,185,169.6,,师范,,云南,,https://www.shanghairanking.cn/_uni/logo/33806915.png
+浙江海洋大学,Zhejiang Ocean University,185,169.6,,农业,,浙江,,https://www.shanghairanking.cn/_uni/logo/75085847.png
+天津科技大学,Tianjin University of Science and Technology,187,169.5,,理工,,天津,,https://www.shanghairanking.cn/_uni/logo/19351758.png
+湖南科技大学,Hunan University of Science and Technology,188,169.4,,综合,,湖南,,https://www.shanghairanking.cn/_uni/logo/66401420.png
+重庆交通大学,Chongqing Jiaotong University,189,169.1,,理工,,重庆,,https://www.shanghairanking.cn/_uni/logo/71040976.png
+长江大学,Yangtze University,190,168.4,,综合,,湖北,,https://www.shanghairanking.cn/_uni/logo/50201974.png
+兰州理工大学,Lanzhou University of Technology,191,168.1,,理工,,甘肃,,https://www.shanghairanking.cn/_uni/logo/67319577.png
+山东理工大学,Shandong University of Technology,191,168.1,,理工,,山东,,https://www.shanghairanking.cn/_uni/logo/36456722.png
+安徽理工大学,Anhui University of Science and Technology,193,167.0,,理工,,安徽,,https://www.shanghairanking.cn/_uni/logo/42528928.png
+烟台大学,Yantai University,193,167.0,,综合,,山东,,https://www.shanghairanking.cn/_uni/logo/78347320.png
+大连工业大学,Dalian Polytechnic University,195,165.9,,理工,,辽宁,,https://www.shanghairanking.cn/_uni/logo/56717207.png
+哈尔滨理工大学,Harbin University of Science and Technology,196,165.5,,理工,,黑龙江,,https://www.shanghairanking.cn/_uni/logo/37722595.png
+沈阳师范大学,Shenyang Normal University,196,165.5,,师范,,辽宁,,https://www.shanghairanking.cn/_uni/logo/35037401.png
+延边大学,Yanbian University,198,165.4,,综合,一流学科/211,吉林,,https://www.shanghairanking.cn/_uni/logo/80498016.png
+内蒙古农业大学,Inner Mongolia Agricultural University,199,165.3,,农业,,内蒙古,,https://www.shanghairanking.cn/_uni/logo/21981730.png
+河南科技大学,Henan University of Science and Technology,200,164.9,,综合,,河南,,https://www.shanghairanking.cn/_uni/logo/15231544.png
+南华大学,University of South China,201,164.1,,综合,,湖南,,https://www.shanghairanking.cn/_uni/logo/37506435.png
+哈尔滨师范大学,Harbin Normal University,202,164.0,,师范,,黑龙江,,https://www.shanghairanking.cn/_uni/logo/21560941.png
+石家庄铁道大学,Shijiazhuang Tiedao University,203,163.5,,理工,,河北,,https://www.shanghairanking.cn/_uni/logo/56126922.png
+北京信息科技大学,Beijing Information Science &amp; Technology University,204,163.4,,理工,,北京,,https://www.shanghairanking.cn/_uni/logo/34773687.png
+沈阳建筑大学,Shenyang Jianzhu University,205,162.5,,理工,,辽宁,,https://www.shanghairanking.cn/_uni/logo/83840131.png
+青岛农业大学,Qingdao Agricultural University,206,162.4,,农业,,山东,,https://www.shanghairanking.cn/_uni/logo/23730927.png
+上海工程技术大学,Shanghai University of Engineering Science,207,161.7,,理工,,上海,,https://www.shanghairanking.cn/_uni/logo/45746621.png
+河南工业大学,Henan University of Technology,208,161.4,,理工,,河南,,https://www.shanghairanking.cn/_uni/logo/30747881.png
+江西理工大学,Jiangxi University of Science and Technology,209,161.1,,理工,,江西,,https://www.shanghairanking.cn/_uni/logo/17877939.png
+中南林业科技大学,Central South University of Forestry &amp; Technology,210,160.8,,林业,,湖南,,https://www.shanghairanking.cn/_uni/logo/51346265.png
+北京农学院,Beijing University of Agriculture,211,160.7,,农业,,北京,,https://www.shanghairanking.cn/_uni/logo/37951247.png
+重庆师范大学,Chongqing Normal University,212,160.6,,师范,,重庆,,https://www.shanghairanking.cn/_uni/logo/84729350.png
+江西农业大学,Jiangxi Agricultural University,213,160.5,,农业,,江西,,https://www.shanghairanking.cn/_uni/logo/90588785.png
+兰州交通大学,Lanzhou Jiaotong University,213,160.5,,理工,,甘肃,,https://www.shanghairanking.cn/_uni/logo/43772124.png
+西藏大学,Tibet University,215,159.7,,综合,一流学科/211,西藏,,https://www.shanghairanking.cn/_uni/logo/71112798.png
+沈阳工业大学,Shenyang University of Technology,216,159.6,,理工,,辽宁,,https://www.shanghairanking.cn/_uni/logo/88323331.png
+华东交通大学,East China Jiaotong University,217,159.4,,理工,,江西,,https://www.shanghairanking.cn/_uni/logo/87418361.png
+沈阳航空航天大学,Shenyang Aerospace University,218,159.2,,理工,,辽宁,,https://www.shanghairanking.cn/_uni/logo/95837223.png
+西安邮电大学,Xi'an University of Posts and Telecommunications,219,158.9,,理工,,陕西,,https://www.shanghairanking.cn/_uni/logo/14415798.png
+东华理工大学,East China University of Technology,220,158.7,,理工,,江西,,https://www.shanghairanking.cn/_uni/logo/80888604.png
+东北电力大学,Northeast Electric Power University,221,158.6,,理工,,吉林,,https://www.shanghairanking.cn/_uni/logo/67384709.png
+上海电力大学,Shanghai University of Electric Power,222,157.9,,理工,,上海,,https://www.shanghairanking.cn/_uni/logo/10117000.png
+鲁东大学,Ludong University,223,157.3,,综合,,山东,,https://www.shanghairanking.cn/_uni/logo/27442378.png
+国际关系学院,University of International Relations,224,157.2,,综合,,北京,,https://www.shanghairanking.cn/_uni/logo-jpg/3679975000.jpg
+大连大学,Dalian University,225,156.9,,综合,,辽宁,,https://www.shanghairanking.cn/_uni/logo/60934075.png
+苏州科技大学,Suzhou University of Science and Technology,226,156.4,,理工,,江苏,,https://www.shanghairanking.cn/_uni/logo/14409136.png
+河北科技大学,Hebei University of Science and Technology,227,155.9,,理工,,河北,,https://www.shanghairanking.cn/_uni/logo/87539958.png
+渤海大学,Bohai University,228,155.8,,综合,,辽宁,,https://www.shanghairanking.cn/_uni/logo/41274490.png
+华北理工大学,North China University of Science and Technology,229,155.5,,综合,,河北,,https://www.shanghairanking.cn/_uni/logo/60206933.png
+甘肃农业大学,Gansu Agricultural University,230,155.4,,农业,,甘肃,,https://www.shanghairanking.cn/_uni/logo/73822591.png
+北京印刷学院,Beijing Institute of Graphic Communication,231,154.1,,理工,,北京,,https://www.shanghairanking.cn/_uni/logo/19759004.png
+重庆理工大学,Chongqing University of Technology,232,153.3,,理工,,重庆,,https://www.shanghairanking.cn/_uni/logo/14275328.png
+西安石油大学,Xi'an Shiyou University,232,153.3,,理工,,陕西,,https://www.shanghairanking.cn/_uni/logo/37520130.png
+海南师范大学,Hainan Normal University,234,152.8,,师范,,海南,,https://www.shanghairanking.cn/_uni/logo/94936624.png
+上海应用技术大学,Shanghai Institute of Technology,235,151.6,,理工,,上海,,https://www.shanghairanking.cn/_uni/logo/11765823.png
+桂林电子科技大学,Guilin University of Electronic Technology,236,151.2,,理工,,广西,,https://www.shanghairanking.cn/_uni/logo/13097274.png
+聊城大学,Liaocheng University,237,150.8,,综合,,山东,,https://www.shanghairanking.cn/_uni/logo/34048509.png
+郑州轻工业大学,Zhengzhou University of Light Industry,237,150.8,,理工,,河南,,https://www.shanghairanking.cn/_uni/logo-jpg/3492800000.jpg
+武汉轻工大学,Wuhan Polytechnic University,239,150.0,,理工,,湖北,,https://www.shanghairanking.cn/_uni/logo/45183909.png
+安徽建筑大学,Anhui jianzhu University,240,149.9,,理工,,安徽,,https://www.shanghairanking.cn/_uni/logo/40890032.png
+东北石油大学,Northeast Petroleum University,240,149.9,,理工,,黑龙江,,https://www.shanghairanking.cn/_uni/logo/74529408.png
+成都信息工程大学,Chengdu University of Information Technology,242,149.2,,理工,,四川,,https://www.shanghairanking.cn/_uni/logo/51862705.png
+东莞理工学院,Dongguan University of Technology,243,149.0,,理工,,广东,,https://www.shanghairanking.cn/_uni/logo/69487690.png
+大连交通大学,Dalian Jiaotong University,244,148.1,,理工,,辽宁,,https://www.shanghairanking.cn/_uni/logo/50496475.png
+山东建筑大学,Shandong Jianzhu University,245,147.5,,理工,,山东,,https://www.shanghairanking.cn/_uni/logo/30745802.png
+西华师范大学,China West Normal University,246,147.4,,师范,,四川,,https://www.shanghairanking.cn/_uni/logo/26457756.png
+西安工程大学,Xi'an Polytechnic University,247,147.2,,理工,,陕西,,https://www.shanghairanking.cn/_uni/logo/23494932.png
+贵州师范大学,Guizhou Normal University,248,146.7,,师范,,贵州,,https://www.shanghairanking.cn/_uni/logo/82418408.png
+成都大学,Chengdu University,249,146.3,,综合,,四川,,https://www.shanghairanking.cn/_uni/logo/69265723.png
+西安工业大学,Xi'an Technological University,250,145.9,,理工,,陕西,,https://www.shanghairanking.cn/_uni/logo/88779109.png
+浙大宁波理工学院,NingboTech University,251,145.1,,理工,,浙江,,https://www.shanghairanking.cn/_uni/logo/68131907.png
+佛山科学技术学院,Foshan University,252,144.6,,理工,,广东,,https://www.shanghairanking.cn/_uni/logo/52972913.png
+山西农业大学,Shanxi Agricultural University,253,143.8,,农业,,山西,,https://www.shanghairanking.cn/_uni/logo/79434268.png
+青岛理工大学,Qingdao University of Technology,254,143.6,,理工,,山东,,https://www.shanghairanking.cn/_uni/logo/11244718.png
+华北水利水电大学,North China University of Water Resources and Electric Power,255,143.5,,理工,,河南,,https://www.shanghairanking.cn/_uni/logo/87920384.png
+厦门理工学院,Xiamen University of Technology,256,143.2,,理工,,福建,,https://www.shanghairanking.cn/_uni/logo/19033285.png
+北京电子科技学院,Beijing Electronic Science and Technology Institute,257,142.9,,理工,,北京,,https://www.shanghairanking.cn/_uni/logo-jpg/9246225400.jpg
+南京工程学院,Nanjing Institute of Technology,258,142.7,,理工,,江苏,,https://www.shanghairanking.cn/_uni/logo/53286556.png
+北京联合大学,Beijing Union University,259,142.2,,综合,,北京,,https://www.shanghairanking.cn/_uni/logo/38515710.png
+长春工业大学,Changchun University of Technology,260,141.6,,理工,,吉林,,https://www.shanghairanking.cn/_uni/logo/73521245.png
+辽宁工程技术大学,Liaoning Technical University,261,141.3,,理工,,辽宁,,https://www.shanghairanking.cn/_uni/logo/44745654.png
+湖州师范学院,Huzhou University,262,141.1,,师范,,浙江,,https://www.shanghairanking.cn/_uni/logo/61175754.png
+江汉大学,Jianghan University,263,140.5,,综合,,湖北,,https://www.shanghairanking.cn/_uni/logo/43420140.png
+辽宁石油化工大学,Liaoning shihua University,264,140.2,,理工,,辽宁,,https://www.shanghairanking.cn/_uni/logo/96685089.png
+青海师范大学,Qinghai Normal University,265,140.1,,师范,,青海,,https://www.shanghairanking.cn/_uni/logo/39086444.png
+吉林师范大学,Jilin Normal University,266,139.9,,师范,,吉林,,https://www.shanghairanking.cn/_uni/logo/23887678.png
+北京石油化工学院,Beijing Institute of Petrochemical Technology,267,139.7,,理工,,北京,,https://www.shanghairanking.cn/_uni/logo/47539221.png
+内蒙古师范大学,Inner Mongolia Normal University,267,139.7,,师范,,内蒙古,,https://www.shanghairanking.cn/_uni/logo/65057276.png
+中国民航大学,Civil Aviation University of China,269,139.1,,理工,,天津,,https://www.shanghairanking.cn/_uni/logo/32878207.png
+辽宁工业大学,Liaoning University of Technology,270,138.7,,理工,,辽宁,,https://www.shanghairanking.cn/_uni/logo/98866857.png
+湖南工业大学,Hunan University of Technology,271,138.6,,理工,,湖南,,https://www.shanghairanking.cn/_uni/logo/21950632.png
+延安大学,Yan'an University,272,138.5,,综合,,陕西,,https://www.shanghairanking.cn/_uni/logo/39856591.png
+西华大学,Xihua University,273,138.2,,综合,,四川,,https://www.shanghairanking.cn/_uni/logo/93995661.png
+桂林理工大学,Guilin University of Technology,274,138.0,,理工,,广西,,https://www.shanghairanking.cn/_uni/logo/10181164.png
+河北工程大学,Hebei University of Engineering,275,137.0,,理工,,河北,,https://www.shanghairanking.cn/_uni/logo/89281811.png
+沈阳化工大学,Shenyang University of Chemical Technology,275,137.0,,理工,,辽宁,,https://www.shanghairanking.cn/_uni/logo/57609876.png
+绍兴文理学院,Shaoxing University,277,136.8,,师范,,浙江,,https://www.shanghairanking.cn/_uni/logo/52850359.png
+安徽工程大学,Anhui Polytechnic University,278,136.6,,理工,,安徽,,https://www.shanghairanking.cn/_uni/logo/58244413.png
+浙江科技学院,Zhejiang University of Science and Technology,279,135.9,,理工,,浙江,,https://www.shanghairanking.cn/_uni/logo/91133655.png
+盐城工学院,Yancheng Institute of Technology,280,135.0,,理工,,江苏,,https://www.shanghairanking.cn/_uni/logo/98593672.png
+盐城师范学院,Yancheng Teachers University,281,134.8,,师范,,江苏,,https://www.shanghairanking.cn/_uni/logo/87686237.png
+山西师范大学,Shanxi Normal University,282,134.5,,师范,,山西,,https://www.shanghairanking.cn/_uni/logo/27091361.png
+赣南师范大学,GanNan Normal University,283,133.9,,师范,,江西,,https://www.shanghairanking.cn/_uni/logo/10016344.png
+大连海洋大学,Dalian Ocean University,284,133.7,,农业,,辽宁,,https://www.shanghairanking.cn/_uni/logo/31946724.png
+内蒙古工业大学,Inner Mongolia University of Technology,285,133.6,,理工,,内蒙古,,https://www.shanghairanking.cn/_uni/logo/41582349.png
+淮阴师范学院,Huaiyin Normal University,286,133.3,,师范,,江苏,,https://www.shanghairanking.cn/_uni/logo/72353527.png
+信阳师范学院,Xinyang Normal University,287,133.1,,师范,,河南,,https://www.shanghairanking.cn/_uni/logo/20481613.png
+安庆师范大学,Anqing Normal University,288,132.9,,师范,,安徽,,https://www.shanghairanking.cn/_uni/logo/66650184.png
+合肥学院,Hefei University,289,132.8,,理工,,安徽,,https://www.shanghairanking.cn/_uni/logo/61834081.png
+云南农业大学,Yunnan Agricultural University,290,132.6,,农业,,云南,,https://www.shanghairanking.cn/_uni/logo/17581582.png
+辽宁科技大学,University of Science and Technology Liaoning,291,132.5,,理工,,辽宁,,https://www.shanghairanking.cn/_uni/logo/62832363.png
+南宁师范大学,Guangxi Teachers Education University,292,132.3,,师范,,广西,,https://www.shanghairanking.cn/_uni/logo/93746377.png
+沈阳理工大学,Shenyang Ligong University,293,132.2,,理工,,辽宁,,https://www.shanghairanking.cn/_uni/logo/61862540.png
+内蒙古民族大学,Inner Mongolia University for Nationalities,294,131.3,,综合,,内蒙古,,https://www.shanghairanking.cn/_uni/logo/87679328.png
+新疆师范大学,Xinjiang Normal University,295,131.2,,师范,,新疆,,https://www.shanghairanking.cn/_uni/logo/91394778.png
+湖北师范大学,Hubei Normal University,296,130.8,,师范,,湖北,,https://www.shanghairanking.cn/_uni/logo/40458904.png
+重庆科技学院,Chongqing University of Science and Technology,297,130.6,,理工,,重庆,,https://www.shanghairanking.cn/_uni/logo/92174588.png
+淮阴工学院,Huaiyin Institute of Technology,297,130.6,,理工,,江苏,,https://www.shanghairanking.cn/_uni/logo/43135857.png
+吉林建筑大学,Jilin Jianzhu University,297,130.6,,理工,,吉林,,https://www.shanghairanking.cn/_uni/logo/67832474.png
+中原工学院,Zhongyuan University of Technology,300,130.4,,理工,,河南,,https://www.shanghairanking.cn/_uni/logo/84789296.png
+北华大学,Beihua University,301,130.2,,综合,,吉林,,https://www.shanghairanking.cn/_uni/logo/70718646.png
+嘉兴学院,Jiaxing University,301,130.2,,综合,,浙江,,https://www.shanghairanking.cn/_uni/logo/41788600.png
+临沂大学,Linyi University,303,129.8,,综合,,山东,,https://www.shanghairanking.cn/_uni/logo/85449690.png
+吉首大学,Jishou University,304,129.7,,综合,,湖南,,https://www.shanghairanking.cn/_uni/logo/24710054.png
+景德镇陶瓷大学,Jingdezhen Ceramic Institute,305,129.5,,理工,,江西,,https://www.shanghairanking.cn/_uni/logo/97993379.png
+广东技术师范大学,Guangdong Polytechnic Normal University,306,129.3,,师范,,广东,,https://www.shanghairanking.cn/_uni/logo/76957155.png
+淮北师范大学,Huaibei Normal University,307,128.7,,师范,,安徽,,https://www.shanghairanking.cn/_uni/logo/42492973.png
+广东海洋大学,Guangdong Ocean University,308,128.6,,农业,,广东,,https://www.shanghairanking.cn/_uni/logo/71593833.png
+长江师范学院,Yangtze Normal University,309,128.4,,师范,,重庆,,https://www.shanghairanking.cn/_uni/logo/86035678.png
+宁波工程学院,Ningbo University of Technology,309,128.4,,理工,,浙江,,https://www.shanghairanking.cn/_uni/logo/40131695.png
+上海海关学院,Shanghai Customs College,311,128.0,,综合,,上海,,https://www.shanghairanking.cn/_uni/logo-jpg/3678336400.jpg
+黑龙江八一农垦大学,Heilongjiang Bayi Agricultural University,312,127.8,,农业,,黑龙江,,https://www.shanghairanking.cn/_uni/logo/10913514.png
+江西科技师范大学,Jiangxi Science and Technology Normal University,313,127.0,,师范,,江西,,https://www.shanghairanking.cn/_uni/logo/63137261.png
+安阳师范学院,Anyang Normal University,314,125.9,,师范,,河南,,https://www.shanghairanking.cn/_uni/logo/54267189.png
+西南林业大学,Southwest Forestry University,314,125.9,,林业,,云南,,https://www.shanghairanking.cn/_uni/logo/53403086.png
+新疆农业大学,Xinjiang Agricultural University,316,125.5,,农业,,新疆,,https://www.shanghairanking.cn/_uni/logo/86159068.png
+常熟理工学院,Changshu Institute of Technology,317,125.2,,综合,,江苏,,https://www.shanghairanking.cn/_uni/logo/44425885.png
+闽南师范大学,Minnan Normal University,318,124.9,,师范,,福建,,https://www.shanghairanking.cn/_uni/logo/54713686.png
+天津城建大学,Tianjin Chengjian University,318,124.9,,理工,,天津,,https://www.shanghairanking.cn/_uni/logo/46314554.png
+福建工程学院,Fujian University of Technology,320,124.7,,理工,,福建,,https://www.shanghairanking.cn/_uni/logo/77255531.png
+沈阳大学,Shenyang University,321,124.5,,综合,,辽宁,,https://www.shanghairanking.cn/_uni/logo/64518610.png
+五邑大学,Wuyi University,322,124.4,,综合,,广东,,https://www.shanghairanking.cn/_uni/logo/80058564.png
+内蒙古科技大学,Inner Mongolia University of Science &amp; Technology,323,124.2,,综合,,内蒙古,,https://www.shanghairanking.cn/_uni/logo/98701978.png
+江苏理工学院,Jiangsu University of Technology,324,123.5,,理工,,江苏,,https://www.shanghairanking.cn/_uni/logo/18087642.png
+上海第二工业大学,Shanghai Second Polytechnic University,325,123.4,,理工,,上海,,https://www.shanghairanking.cn/_uni/logo/70585176.png
+浙大城市学院,Zhejiang University City College,326,123.0,,理工,,浙江,,https://www.shanghairanking.cn/_uni/logo/46612256.png
+太原科技大学,Taiyuan University of Science and Technology,327,122.7,,理工,,山西,,https://www.shanghairanking.cn/_uni/logo/22418234.png
+岭南师范学院,LingNan Normal University,328,122.6,,师范,,广东,,https://www.shanghairanking.cn/_uni/logo/81393131.png
+天津农学院,Tianjin Agricultural University,329,122.2,,农业,,天津,,https://www.shanghairanking.cn/_uni/logo/45293117.png
+塔里木大学,Tarim University,330,121.5,,综合,,新疆,,https://www.shanghairanking.cn/_uni/logo/99603674.png
+南京晓庄学院,Nanjing XiaoZhuang University,331,121.3,,师范,,江苏,,https://www.shanghairanking.cn/_uni/logo/17661336.png
+大理大学,Dali University,332,120.9,,综合,,云南,,https://www.shanghairanking.cn/_uni/logo/75994663.png
+井冈山大学,Jinggangshan University,332,120.9,,综合,,江西,,https://www.shanghairanking.cn/_uni/logo/50371015.png
+湖南理工学院,Hunan Institute of Science and Technology,334,120.8,,理工,,湖南,,https://www.shanghairanking.cn/_uni/logo/43186940.png
+江苏海洋大学,Huaihai Institute of Technology,334,120.8,,理工,,江苏,,https://www.shanghairanking.cn/_uni/logo/24296488.png
+台州学院,Taizhou University,336,120.6,,综合,,浙江,,https://www.shanghairanking.cn/_uni/logo-jpg/8551212700.jpg
+闽江学院,Minjiang University,337,120.4,,理工,,福建,,https://www.shanghairanking.cn/_uni/logo/95059485.png
+黄冈师范学院,Huanggang Normal University,338,120.0,,师范,,湖北,,https://www.shanghairanking.cn/_uni/logo/63694810.png
+重庆文理学院,Chongqing University of Arts and Science,339,119.9,,综合,,重庆,,https://www.shanghairanking.cn/_uni/logo/30413024.png
+浙江万里学院,Zhejiang Wanli University,339,119.9,,理工,,浙江,,https://www.shanghairanking.cn/_uni/logo/32947352.png
+齐齐哈尔大学,Qiqihar University,341,119.7,,综合,,黑龙江,,https://www.shanghairanking.cn/_uni/logo/19030311.png
+四川轻化工大学,Sichuan University of Science and Engineering,341,119.7,,理工,,四川,,https://www.shanghairanking.cn/_uni/logo/68372773.png
+南昌工程学院,Nanchang Institute of Technology,343,119.6,,理工,,江西,,https://www.shanghairanking.cn/_uni/logo/88433724.png
+天津职业技术师范大学,TianJin University of Technology and Education,344,119.4,,师范,,天津,,https://www.shanghairanking.cn/_uni/logo/38391685.png
+上海电机学院,Shanghai Dianji University,345,119.1,,理工,,上海,,https://www.shanghairanking.cn/_uni/logo/14374343.png
+湖北科技学院,Hubei University of Science and Technology,346,119.0,,综合,,湖北,,https://www.shanghairanking.cn/_uni/logo/48475987.png
+陕西理工大学,Shaanxi University of Technology,347,118.8,,理工,,陕西,,https://www.shanghairanking.cn/_uni/logo/18739697.png
+内江师范学院,Neijiang Normal University,348,118.5,,师范,,四川,,https://www.shanghairanking.cn/_uni/logo/39821454.png
+合肥师范学院,Hefei Normal University,349,118.4,,师范,,安徽,,https://www.shanghairanking.cn/_uni/logo/15187571.png
+阜阳师范大学,Fuyang Normal University,350,116.6,,师范,,安徽,,https://www.shanghairanking.cn/_uni/logo/54911354.png
+南阳师范学院,Nanyang Normal University,351,116.4,,师范,,河南,,https://www.shanghairanking.cn/_uni/logo/81579397.png
+贵州师范学院,Guizhou Normal College,352,116.2,,师范,,贵州,,https://www.shanghairanking.cn/_uni/logo/12076666.png
+徐州工程学院,Xuzhou Institute of Technology,353,115.8,,理工,,江苏,,https://www.shanghairanking.cn/_uni/logo/15209078.png
+洛阳师范学院,Luoyang Normal University,354,115.4,,师范,,河南,,https://www.shanghairanking.cn/_uni/logo/60927754.png
+仲恺农业工程学院,Zhongkai University of Agriculture and Engineering,354,115.4,,农业,,广东,,https://www.shanghairanking.cn/_uni/logo/27048883.png
+长春师范大学,Changchun Normal University,356,115.2,,师范,,吉林,,https://www.shanghairanking.cn/_uni/logo/82800037.png
+湖北文理学院,Hubei University of Arts and Science,357,114.8,,综合,,湖北,,https://www.shanghairanking.cn/_uni/logo/54746261.png
+宝鸡文理学院,Baoji University of Arts and Sciences,358,114.5,,师范,,陕西,,https://www.shanghairanking.cn/_uni/logo/99370840.png
+安徽科技学院,Anhui Science and Technology University,359,114.2,,师范,,安徽,,https://www.shanghairanking.cn/_uni/logo/87128194.png
+长沙学院,Changsha University,360,114.0,,理工,,湖南,,https://www.shanghairanking.cn/_uni/logo/54067016.png
+衡阳师范学院,Hengyang Normal University,361,113.8,,师范,,湖南,,https://www.shanghairanking.cn/_uni/logo/34272930.png
+无锡学院,"Nanjing University of Information Science and Technology, Binjiang College",362,113.3,,综合,,江苏,,https://www.shanghairanking.cn/_uni/logo-jpg/7955219400.jpg
+滨州学院,Binzhou University,363,113.1,,师范,,山东,,https://www.shanghairanking.cn/_uni/logo/52267041.png
+长春大学,Changchun University,364,112.8,,综合,,吉林,,https://www.shanghairanking.cn/_uni/logo/29057599.png
+黑龙江科技大学,Heilongjiang University of Science and Technology,365,112.6,,理工,,黑龙江,,https://www.shanghairanking.cn/_uni/logo/65166425.png
+泉州师范学院,Quanzhou Normal University,365,112.6,,师范,,福建,,https://www.shanghairanking.cn/_uni/logo/43122253.png
+河北科技师范学院,Hebei Normal University of Science and Technology,367,112.0,,师范,,河北,,https://www.shanghairanking.cn/_uni/logo/54034662.png
+广西科技大学,Guangxi University of Science and Technology,368,111.8,,理工,,广西,,https://www.shanghairanking.cn/_uni/logo/70589857.png
+江苏第二师范学院,Jiangsu Second Normal University,369,111.5,,师范,,江苏,,https://www.shanghairanking.cn/_uni/logo/46841239.png
+西藏农牧学院,Tibet Agriculture and Animal Husbandry University,370,111.1,,农业,,西藏,,https://www.shanghairanking.cn/_uni/logo-jpg/1519048000.jpg
+贵州理工学院,Guizhou Institute of Technology,371,111.0,,理工,,贵州,,https://www.shanghairanking.cn/_uni/logo/98035266.png
+咸阳师范学院,Xianyang Normal University,371,111.0,,师范,,陕西,,https://www.shanghairanking.cn/_uni/logo/21589045.png
+九江学院,Jiujiang University,373,110.8,,综合,,江西,,https://www.shanghairanking.cn/_uni/logo/46532631.png
+绵阳师范学院,Mianyang Teachers' College,374,110.6,,师范,,四川,,https://www.shanghairanking.cn/_uni/logo/85507824.png
+湖北汽车工业学院,Hubei University of Automotive Technology,375,110.5,,理工,,湖北,,https://www.shanghairanking.cn/_uni/logo/90773167.png
+常州工学院,Changzhou Institute of Technology,376,109.7,,理工,,江苏,,https://www.shanghairanking.cn/_uni/logo/21237870.png
+金陵科技学院,Jinling Institute of Technology,377,109.6,,综合,,江苏,,https://www.shanghairanking.cn/_uni/logo/85525495.png
+黑龙江工程学院,Heilongjiang Institute of Technology,378,109.4,,理工,,黑龙江,,https://www.shanghairanking.cn/_uni/logo/12526638.png
+乐山师范学院,Leshan Normal University,378,109.4,,师范,,四川,,https://www.shanghairanking.cn/_uni/logo/88627950.png
+潍坊学院,Weifang University,380,109.2,,综合,,山东,,https://www.shanghairanking.cn/_uni/logo/88223218.png
+佳木斯大学,Jiamusi University,381,108.8,,综合,,黑龙江,,https://www.shanghairanking.cn/_uni/logo/39384948.png
+唐山师范学院,Tangshan Normal University,382,108.5,,师范,,河北,,https://www.shanghairanking.cn/_uni/logo/65458418.png
+山东交通学院,Shandong Jiaotong University,383,108.4,,理工,,山东,,https://www.shanghairanking.cn/_uni/logo/72327141.png
+广东石油化工学院,Guangdong University of Petrochemical Technology,384,107.6,,综合,,广东,,https://www.shanghairanking.cn/_uni/logo/35196660.png
+河北建筑工程学院,Hebei University of Architecture,384,107.6,,理工,,河北,,https://www.shanghairanking.cn/_uni/logo-jpg/6786819600.jpg
+湖北工程学院,Hubei Engineering University,386,107.4,,综合,,湖北,,https://www.shanghairanking.cn/_uni/logo/93515588.png
+惠州学院,Huizhou University,387,107.3,,综合,,广东,,https://www.shanghairanking.cn/_uni/logo/84940619.png
+成都工业学院,Chengdu Technological University,388,107.1,,理工,,四川,,https://www.shanghairanking.cn/_uni/logo/83350978.png
+丽水学院,Lishui University,388,107.1,,师范,,浙江,,https://www.shanghairanking.cn/_uni/logo/40081109.png
+黄淮学院,Huanghuai University,390,106.8,,师范,,河南,,https://www.shanghairanking.cn/_uni/logo/99125868.png
+许昌学院,Xuchang University,391,106.7,,理工,,河南,,https://www.shanghairanking.cn/_uni/logo/12049720.png
+北华航天工业学院,North China Institute of Aerospace Engineering,392,106.6,,理工,,河北,,https://www.shanghairanking.cn/_uni/logo/92801885.png
+湖北第二师范学院,Hubei University of Education,393,106.5,,师范,,湖北,,https://www.shanghairanking.cn/_uni/logo/71638925.png
+湖南第一师范学院,Hunan First Normal University,394,106.2,,师范,,湖南,,https://www.shanghairanking.cn/_uni/logo/20498995.png
+湖南文理学院,Hunan University of Arts and Science,395,105.9,,综合,,湖南,,https://www.shanghairanking.cn/_uni/logo/18418928.png
+周口师范学院,Zhoukou Normal University,396,105.7,,师范,,河南,,https://www.shanghairanking.cn/_uni/logo/59515613.png
+成都师范学院,Chengdu Normal University,397,105.5,,师范,,四川,,https://www.shanghairanking.cn/_uni/logo-jpg/4681771000.jpg
+重庆三峡学院,Chongqing Three Gorges University,397,105.5,,综合,,重庆,,https://www.shanghairanking.cn/_uni/logo/16478778.png
+铜仁学院,Tongren University,397,105.5,,综合,,贵州,,https://www.shanghairanking.cn/_uni/logo/70662162.png
+遵义师范学院,Zunyi Normal University,400,105.4,,师范,,贵州,,https://www.shanghairanking.cn/_uni/logo-jpg/7195928000.jpg
+上饶师范学院,Shangrao Normal University,401,105.0,,师范,,江西,,https://www.shanghairanking.cn/_uni/logo-jpg/7197432700.jpg
+商丘师范学院,Shangqiu Normal University,402,104.8,,师范,,河南,,https://www.shanghairanking.cn/_uni/logo/54757149.png
+宜春学院,Yichun University,403,104.7,,综合,,江西,,https://www.shanghairanking.cn/_uni/logo/60393380.png
+浙江水利水电学院,Zhejiang University of Water Resources and Electric Power,403,104.7,,理工,,浙江,,https://www.shanghairanking.cn/_uni/logo/56985389.png
+滁州学院,Chuzhou University,405,104.6,,师范,,安徽,,https://www.shanghairanking.cn/_uni/logo/85371855.png
+吉林化工学院,Jilin Institute of Chemical Technology,406,104.4,,理工,,吉林,,https://www.shanghairanking.cn/_uni/logo/38741664.png
+德州学院,Dezhou University,407,104.1,,综合,,山东,,https://www.shanghairanking.cn/_uni/logo/14072746.png
+肇庆学院,Zhaoqing University,408,104.0,,综合,,广东,,https://www.shanghairanking.cn/_uni/logo/75909981.png
+泰山学院,Taishan University,409,103.5,,综合,,山东,,https://www.shanghairanking.cn/_uni/logo/71264540.png
+广东第二师范学院,Guangdong University of Education,410,103.2,,师范,,广东,,https://www.shanghairanking.cn/_uni/logo/26260939.png
+沈阳工程学院,Shenyang Institute of Engineering,411,102.7,,理工,,辽宁,,https://www.shanghairanking.cn/_uni/logo/54369362.png
+榆林学院,Yulin University,412,102.3,,师范,,陕西,,https://www.shanghairanking.cn/_uni/logo/85924739.png
+长春工程学院,Changchun Institute of Technology,413,102.2,,理工,,吉林,,https://www.shanghairanking.cn/_uni/logo/68422924.png
+洛阳理工学院,Luoyang Institute of Science and Technology,414,102.0,,综合,,河南,,https://www.shanghairanking.cn/_uni/logo/48021129.png
+韩山师范学院,Hanshan Normal University,415,101.3,,师范,,广东,,https://www.shanghairanking.cn/_uni/logo/57927770.png
+河北科技工程职业技术大学,North China Electric Power University Science and Technology College,416,101.2,,理工,,河北,,https://www.shanghairanking.cn/_uni/logo-jpg/8057595500.jpg
+天水师范学院,Tianshui Normal University,416,101.2,,师范,,甘肃,,https://www.shanghairanking.cn/_uni/logo/35438108.png
+北部湾大学,Beibu Gulf University,418,101.1,,综合,,广西,,https://www.shanghairanking.cn/_uni/logo/99524990.png
+西安文理学院,Xi'an University,418,101.1,,师范,,陕西,,https://www.shanghairanking.cn/_uni/logo/14139441.png
+齐鲁师范学院,Qilu Normal University,420,100.9,,师范,,山东,,https://www.shanghairanking.cn/_uni/logo/42027987.png
+皖西学院,West AnHui University,420,100.9,,师范,,安徽,,https://www.shanghairanking.cn/_uni/logo/64462476.png
+哈尔滨学院,Harbin University,422,100.6,,综合,,黑龙江,,https://www.shanghairanking.cn/_uni/logo/71111811.png
+湖南城市学院,Hunan City University,423,100.3,,综合,,湖南,,https://www.shanghairanking.cn/_uni/logo/93210906.png
+通化师范学院,Tonghua Normal University,423,100.3,,师范,,吉林,,https://www.shanghairanking.cn/_uni/logo/59725851.png
+防灾科技学院,Institute of Disaster Prevention,425,100.0,,理工,,河北,,https://www.shanghairanking.cn/_uni/logo/20951986.png
+宜宾学院,Yibin University,426,99.9,,综合,,四川,,https://www.shanghairanking.cn/_uni/logo/40775796.png
+河北工业职业技术大学,Polytechnic College of Hebei University of Science and Technology,427,99.5,,理工,,河北,,https://www.shanghairanking.cn/_uni/logo-jpg/4909441300.jpg
+兰州城市学院,Lanzhou City University,428,99.4,,综合,,甘肃,,https://www.shanghairanking.cn/_uni/logo/61174686.png
+河南科技学院,Henan Institute of Science and Technology,429,99.2,,师范,,河南,,https://www.shanghairanking.cn/_uni/logo/45836143.png
+宁夏师范学院,Ningxia Normal University,430,99.0,,师范,,宁夏,,https://www.shanghairanking.cn/_uni/logo-jpg/3211405500.jpg
+曲靖师范学院,Qujing Normal University,430,99.0,,师范,,云南,,https://www.shanghairanking.cn/_uni/logo/38293178.png
+渭南师范学院,Weinan Normal University,432,98.9,,师范,,陕西,,https://www.shanghairanking.cn/_uni/logo/58053407.png
+玉林师范学院,Yulin Normal University,433,98.8,,师范,,广西,,https://www.shanghairanking.cn/_uni/logo/23382976.png
+南京特殊教育师范学院,Nanjing Normal University of Special Education,434,98.4,,师范,,江苏,,https://www.shanghairanking.cn/_uni/logo-jpg/4784677600.jpg
+华北科技学院,North China Institute of Science and Technology,435,98.2,,理工,,河北,,https://www.shanghairanking.cn/_uni/logo/94510632.png
+唐山学院,Tangshan College,436,98.0,,理工,,河北,,https://www.shanghairanking.cn/_uni/logo/60481068.png
+韶关学院,Shaoguan University,437,97.9,,综合,,广东,,https://www.shanghairanking.cn/_uni/logo/14887282.png
+河西学院,HeXi University,438,97.6,,综合,,甘肃,,https://www.shanghairanking.cn/_uni/logo/84218792.png
+黄山学院,Huangshan University,438,97.6,,师范,,安徽,,https://www.shanghairanking.cn/_uni/logo/56600197.png
+中国民用航空飞行学院,Civil Aviation Flight University of China,440,97.3,,理工,,四川,,https://www.shanghairanking.cn/_uni/logo/49642757.png
+湖南工程学院,Hunan Institute of Engineering,441,97.2,,理工,,湖南,,https://www.shanghairanking.cn/_uni/logo/87270858.png
+三明学院,Sanming University,442,96.8,,综合,,福建,,https://www.shanghairanking.cn/_uni/logo-jpg/8062462800.jpg
+泰州学院,Taizhou University,443,96.7,,师范,,江苏,,https://www.shanghairanking.cn/_uni/logo-jpg/4682020700.jpg
+湖北理工学院,Hubei Polytechnic University,444,96.5,,理工,,湖北,,https://www.shanghairanking.cn/_uni/logo/43373392.png
+石家庄学院,Shijiazhuang University,444,96.5,,师范,,河北,,https://www.shanghairanking.cn/_uni/logo/40469773.png
+莆田学院,Putian University,446,96.3,,综合,,福建,,https://www.shanghairanking.cn/_uni/logo/70611686.png
+龙岩学院,Longyan University,447,96.2,,综合,,福建,,https://www.shanghairanking.cn/_uni/logo/37500595.png
+内蒙古科技大学包头师范学院,Baotou Teachers' College,448,96.1,,综合,,内蒙古,,https://www.shanghairanking.cn/_uni/logo-jpg/2887180000.jpg
+安顺学院,Anshun University,449,95.8,,综合,,贵州,,https://www.shanghairanking.cn/_uni/logo-jpg/1559271700.jpg
+南昌师范学院,Nanchang Normal University,449,95.8,,师范,,江西,,https://www.shanghairanking.cn/_uni/logo-jpg/9123847400.jpg
+四川文理学院,Sichuan University of Arts and Science,451,95.5,,综合,,四川,,https://www.shanghairanking.cn/_uni/logo/52936789.png
+廊坊师范学院,Langfang Teachers University,452,95.2,,师范,,河北,,https://www.shanghairanking.cn/_uni/logo/28138817.png
+玉溪师范学院,Yuxi Normal University,452,95.2,,师范,,云南,,https://www.shanghairanking.cn/_uni/logo/22391217.png
+河南城建学院,Henan University of Urban Construction,454,95.1,,理工,,河南,,https://www.shanghairanking.cn/_uni/logo/98614127.png
+重庆第二师范学院,Chongqing University of Education,455,95.0,,师范,,重庆,,https://www.shanghairanking.cn/_uni/logo/78569083.png
+西昌学院,Xichang College,456,94.9,,综合,,四川,,https://www.shanghairanking.cn/_uni/logo-jpg/8838763600.jpg
+凯里学院,Kaili University,457,94.8,,综合,,贵州,,https://www.shanghairanking.cn/_uni/logo-jpg/8587602700.jpg
+牡丹江师范学院,Mudanjiang Normal University,457,94.8,,师范,,黑龙江,,https://www.shanghairanking.cn/_uni/logo/39075056.png
+四川旅游学院,Sichuan Tourism University,459,94.6,,综合,,四川,,https://www.shanghairanking.cn/_uni/logo-jpg/1651148300.jpg
+郑州师范学院,Zhengzhou Normal University,460,94.4,,师范,,河南,,https://www.shanghairanking.cn/_uni/logo/81495500.png
+大庆师范学院,Daqing Normal University,461,94.3,,综合,,黑龙江,,https://www.shanghairanking.cn/_uni/logo-jpg/7194980800.jpg
+攀枝花学院,Panzhihua University,461,94.3,,综合,,四川,,https://www.shanghairanking.cn/_uni/logo/39118190.png
+昆明学院,Kunming University,463,94.2,,综合,,云南,,https://www.shanghairanking.cn/_uni/logo/12954554.png
+衢州学院,Quzhou University,464,94.1,,理工,,浙江,,https://www.shanghairanking.cn/_uni/logo/72411383.png
+白城师范学院,Baicheng Normal University,465,93.6,,师范,,吉林,,https://www.shanghairanking.cn/_uni/logo-jpg/4750387800.jpg
+吉林工程技术师范学院,Jilin Engineering Normal University,465,93.6,,师范,,吉林,,https://www.shanghairanking.cn/_uni/logo-jpg/9472304600.jpg
+淮南师范学院,Huainan Normal University,467,93.5,,师范,,安徽,,https://www.shanghairanking.cn/_uni/logo/56595333.png
+湖州学院,Huzhou University Qiuzhen College,467,93.5,,师范,,浙江,,https://www.shanghairanking.cn/_uni/logo/19332185.png
+嘉应学院,Jiaying University,467,93.5,,综合,,广东,,https://www.shanghairanking.cn/_uni/logo/40007744.png
+南阳理工学院,Nanyang Institute of Technology,467,93.5,,理工,,河南,,https://www.shanghairanking.cn/_uni/logo/83749369.png
+营口理工学院,YingKou Institute of Technology,467,93.5,,理工,,辽宁,,https://www.shanghairanking.cn/_uni/logo-jpg/1906674600.jpg
+商洛学院,Shangluo University,472,93.4,,综合,,陕西,,https://www.shanghairanking.cn/_uni/logo/56711450.png
+陇东学院,Long Dong University,473,92.4,,师范,,甘肃,,https://www.shanghairanking.cn/_uni/logo/49553796.png
+保定学院,Baoding University,474,92.3,,师范,,河北,,https://www.shanghairanking.cn/_uni/logo-jpg/8911327100.jpg
+苏州城市学院,Wenzheng College of Soochow University,474,92.3,,综合,,江苏,,https://www.shanghairanking.cn/_uni/logo-jpg/7187173700.jpg
+安康学院,Ankang University,476,92.2,,综合,,陕西,,https://www.shanghairanking.cn/_uni/logo/83476348.png
+湖南科技学院,Hunan University of Science and Engineering,477,91.7,,综合,,湖南,,https://www.shanghairanking.cn/_uni/logo/89586778.png
+山东管理学院,Shandong Management University,477,91.7,,综合,,山东,,https://www.shanghairanking.cn/_uni/logo-jpg/7097115800.jpg
+贵阳学院,Guiyang University,479,91.5,,综合,,贵州,,https://www.shanghairanking.cn/_uni/logo/66279213.png
+辽宁科技学院,Liaoning Institute of Science and Technology,480,91.4,,理工,,辽宁,,https://www.shanghairanking.cn/_uni/logo-jpg/2349550300.jpg
+武夷学院,Wuyi University,481,91.3,,综合,,福建,,https://www.shanghairanking.cn/_uni/logo-jpg/6657725600.jpg
+鞍山师范学院,Anshan Normal University Liaoning China,482,91.2,,师范,,辽宁,,https://www.shanghairanking.cn/_uni/logo/82317225.png
+湘南学院,Xiangnan University,483,91.1,,理工,,湖南,,https://www.shanghairanking.cn/_uni/logo/21632133.png
+六盘水师范学院,Liupanshui Normal University,484,90.9,,师范,,贵州,,https://www.shanghairanking.cn/_uni/logo-jpg/1719257800.jpg
+河南牧业经济学院,Henan University of Animal Husbandry and Economy,485,90.7,,农业,,河南,,https://www.shanghairanking.cn/_uni/logo/55458057.png
+平顶山学院,Pingdingshan University,485,90.7,,师范,,河南,,https://www.shanghairanking.cn/_uni/logo/95443426.png
+贺州学院,Hezhou University,487,90.6,,综合,,广西,,https://www.shanghairanking.cn/_uni/logo/68638535.png
+兰州工业学院,Lanzhou Institute of Technology,487,90.6,,理工,,甘肃,,https://www.shanghairanking.cn/_uni/logo-jpg/9986906100.jpg
+宁德师范学院,Ningde Normal University,489,90.5,,师范,,福建,,https://www.shanghairanking.cn/_uni/logo-jpg/6036772300.jpg
+池州学院,Chizhou University,490,90.4,,师范,,安徽,,https://www.shanghairanking.cn/_uni/logo/31711737.png
+黔南民族师范学院,Qiannan Normal College for Nationalities,491,90.2,,师范,,贵州,,https://www.shanghairanking.cn/_uni/logo-jpg/2274361400.jpg
+太原师范学院,Taiyuan Normal University,491,90.2,,师范,,山西,,https://www.shanghairanking.cn/_uni/logo/95911693.png
+宿州学院,Suzhou University,493,90.1,,师范,,安徽,,https://www.shanghairanking.cn/_uni/logo-jpg/5126663700.jpg
+山东石油化工学院,"Shengli College, China University of Petroleum",494,89.8,,理工,,山东,,https://www.shanghairanking.cn/_uni/logo-jpg/1462012500.jpg
+海南热带海洋学院,Hainan Tropical Ocean University,495,89.7,,综合,,海南,,https://www.shanghairanking.cn/_uni/logo/40219438.png
+黑河学院,Heihe University,496,89.4,,综合,,黑龙江,,https://www.shanghairanking.cn/_uni/logo-jpg/6108486600.jpg
+吉林农业科技学院,Jilin Agricultural Science and Technology University,496,89.4,,农业,,吉林,,https://www.shanghairanking.cn/_uni/logo-jpg/3050964900.jpg
+辽东学院,Eastern Liaoning University,496,89.4,,综合,,辽宁,,https://www.shanghairanking.cn/_uni/logo/32502477.png
+山西大同大学,Shanxi Datong University,496,89.4,,综合,,山西,,https://www.shanghairanking.cn/_uni/logo/84783964.png
+西安航空学院,Xi'an Aeronautical University,496,89.4,,理工,,陕西,,https://www.shanghairanking.cn/_uni/logo/48156282.png
+陕西学前师范学院,Shaanxi Xueqian Normal University,501,89.3,,师范,,陕西,,https://www.shanghairanking.cn/_uni/logo-jpg/1691016600.jpg
+四川民族学院,Sichuan University for Nationalities,501,89.3,,师范,,四川,,https://www.shanghairanking.cn/_uni/logo-jpg/6044899600.jpg
+山东农业工程学院,Shandong Agriculture and Engineering University,503,88.8,,综合,,山东,,https://www.shanghairanking.cn/_uni/logo-jpg/7258167900.jpg
+蚌埠学院,Bengbu University,504,88.3,,理工,,安徽,,https://www.shanghairanking.cn/_uni/logo/64894541.png
+怀化学院,Huaihua University,505,87.9,,综合,,湖南,,https://www.shanghairanking.cn/_uni/logo/97532390.png
+新余学院,Xinyu University,506,87.8,,综合,,江西,,https://www.shanghairanking.cn/_uni/logo-jpg/6113099900.jpg
+邵阳学院,Shaoyang University,507,87.7,,理工,,湖南,,https://www.shanghairanking.cn/_uni/logo/89823044.png
+楚雄师范学院,Chuxiong Normal University,508,87.4,,师范,,云南,,https://www.shanghairanking.cn/_uni/logo/62283799.png
+河南工程学院,Henan University of Engineering,508,87.4,,理工,,河南,,https://www.shanghairanking.cn/_uni/logo/27407185.png
+济宁学院,Jining University,510,87.3,,师范,,山东,,https://www.shanghairanking.cn/_uni/logo/45162710.png
+喀什大学,Kashi University,511,87.2,,师范,,新疆,,https://www.shanghairanking.cn/_uni/logo-jpg/3795453200.jpg
+兰州文理学院,Lanzhou University of Arts and Science,512,86.9,,综合,,甘肃,,https://www.shanghairanking.cn/_uni/logo-jpg/3454415300.jpg
+赤峰学院,Chifeng University,513,86.8,,综合,,内蒙古,,https://www.shanghairanking.cn/_uni/logo/71637705.png
+汉江师范学院,Hanjiang Normal University,513,86.8,,师范,,湖北,,https://www.shanghairanking.cn/_uni/logo-jpg/8409386600.jpg
+伊犁师范大学,Yili Normal University,515,86.7,,师范,,新疆,,https://www.shanghairanking.cn/_uni/logo/88921235.png
+贵州工程应用技术学院,Guizhou University of Engineering Science,516,86.5,,师范,,贵州,,https://www.shanghairanking.cn/_uni/logo-jpg/3605984000.jpg
+邢台学院,Xingtai University,517,86.4,,师范,,河北,,https://www.shanghairanking.cn/_uni/logo/16573557.png
+邯郸学院,Handan College,518,86.2,,师范,,河北,,https://www.shanghairanking.cn/_uni/logo/22418873.png
+衡水学院,Hengshui University,518,86.2,,师范,,河北,,https://www.shanghairanking.cn/_uni/logo-jpg/1780203800.jpg
+晋中学院,Jinzhong University,520,86.1,,师范,,山西,,https://www.shanghairanking.cn/_uni/logo-jpg/9083433800.jpg
+梧州学院,Wuzhou University,521,86.0,,综合,,广西,,https://www.shanghairanking.cn/_uni/logo-jpg/3573615200.jpg
+菏泽学院,Heze University,522,85.8,,综合,,山东,,https://www.shanghairanking.cn/_uni/logo-jpg/6859622100.jpg
+红河学院,Honghe University,522,85.8,,综合,,云南,,https://www.shanghairanking.cn/_uni/logo/87705412.png
+甘肃民族师范学院,Gansu Normal University for Nationalities,524,85.7,,师范,,甘肃,,https://www.shanghairanking.cn/_uni/logo-jpg/6463626300.jpg
+呼伦贝尔学院,Hulunbuir University,525,85.6,,综合,,内蒙古,,https://www.shanghairanking.cn/_uni/logo-jpg/3798407700.jpg
+山东女子学院,Shandong Women's University,526,85.4,,综合,,山东,,https://www.shanghairanking.cn/_uni/logo-jpg/6756319700.jpg
+湖南人文科技学院,"Hunan University of Humanities, Science and Technology",527,84.8,,师范,,湖南,,https://www.shanghairanking.cn/_uni/logo-jpg/4726142300.jpg
+广州航海学院,Guangzhou Maritime University,528,84.6,,理工,,广东,,https://www.shanghairanking.cn/_uni/logo-jpg/8091211800.jpg
+新乡学院,Xinxiang University,528,84.6,,理工,,河南,,https://www.shanghairanking.cn/_uni/logo/36805815.png
+百色学院,Baise University,530,84.2,,综合,,广西,,https://www.shanghairanking.cn/_uni/logo-jpg/5133582400.jpg
+沧州师范学院,Cangzhou Normal University,531,83.9,,师范,,河北,,https://www.shanghairanking.cn/_uni/logo-jpg/7545744400.jpg
+景德镇学院,Jingdezhen University,532,83.6,,综合,,江西,,https://www.shanghairanking.cn/_uni/logo-jpg/8700667100.jpg
+福建技术师范学院,Fujian Polytechnic Normal University,533,83.4,,师范,,福建,,https://www.shanghairanking.cn/_uni/logo-jpg/2006306400.jpg
+赣南科技学院,"College of Applied Science, Jiangxi University of Science and Technology",533,83.4,,理工,,江西,,
+广西民族师范学院,Guangxi Normal University for Nationalities,533,83.4,,师范,,广西,,https://www.shanghairanking.cn/_uni/logo-jpg/8391212800.jpg
+荆楚理工学院,Jingchu University of Technology,533,83.4,,理工,,湖北,,https://www.shanghairanking.cn/_uni/logo/77437503.png
+安阳工学院,Anyang Institute of Technology,537,83.2,,理工,,河南,,https://www.shanghairanking.cn/_uni/logo/16651461.png
+阿坝师范学院,Aba Teachers University,538,82.8,,师范,,四川,,https://www.shanghairanking.cn/_uni/logo-jpg/7867310100.jpg
+信阳农林学院,Xinyang Agriculture and Forestry University,538,82.8,,农业,,河南,,https://www.shanghairanking.cn/_uni/logo-jpg/8561928200.jpg
+巢湖学院,Chaohu University,540,82.6,,师范,,安徽,,https://www.shanghairanking.cn/_uni/logo/67944058.png
+河北民族师范学院,Hebei Normal University for Nationalities,541,82.5,,师范,,河北,,https://www.shanghairanking.cn/_uni/logo-jpg/4961844000.jpg
+桂林航天工业学院,Guilin University of Aerospace Technology,542,82.3,,理工,,广西,,https://www.shanghairanking.cn/_uni/logo/78821750.png
+长治学院,Changzhi University,543,82.2,,师范,,山西,,https://www.shanghairanking.cn/_uni/logo-jpg/6834033600.jpg
+河池学院,Hechi University,544,81.0,,综合,,广西,,https://www.shanghairanking.cn/_uni/logo-jpg/8043470000.jpg
+河北环境工程学院,Hebei University of Environmental Engineering,545,80.9,,综合,,河北,,https://www.shanghairanking.cn/_uni/logo-jpg/5184991800.jpg
+张家口学院,Zhangjiakou University,546,80.7,,综合,,河北,,https://www.shanghairanking.cn/_uni/logo-jpg/7082706800.jpg
+湖南工学院,Hunan Institute of Technology,547,80.6,,理工,,湖南,,https://www.shanghairanking.cn/_uni/logo/65480177.png
+河南工学院,Henan Institute of Technology,548,80.5,,理工,,河南,,https://www.shanghairanking.cn/_uni/logo-jpg/2200013300.jpg
+兴义民族师范学院,Xingyi Normal University for Nationalities,549,80.0,,师范,,贵州,,https://www.shanghairanking.cn/_uni/logo-jpg/4357856000.jpg
+绥化学院,Suihua University,550,79.8,,综合,,黑龙江,,https://www.shanghairanking.cn/_uni/logo-jpg/3200894300.jpg
+温州理工学院,Wenzhou University Oujiang College,551,79.2,,师范,,浙江,,https://www.shanghairanking.cn/_uni/logo-jpg/3429316100.jpg
+保山学院,Baoshan University,552,79.0,,师范,,云南,,https://www.shanghairanking.cn/_uni/logo-jpg/3305498700.jpg
+山东青年政治学院,Shandong Youth University of Political Science,553,78.9,,综合,,山东,,https://www.shanghairanking.cn/_uni/logo-jpg/8794886600.jpg
+长沙师范学院,Changsha Normal University,554,78.8,,师范,,湖南,,https://www.shanghairanking.cn/_uni/logo-jpg/3063398500.jpg
+枣庄学院,Zaozhuang University,555,78.1,,综合,,山东,,https://www.shanghairanking.cn/_uni/logo/84643594.png
+郑州工程技术学院,Zhengzhou Institute of Technology,555,78.1,,理工,,河南,,https://www.shanghairanking.cn/_uni/logo-jpg/8369306300.jpg
+运城学院,Yuncheng University,557,77.9,,师范,,山西,,https://www.shanghairanking.cn/_uni/logo/26090569.png
+文山学院,Wenshan University,558,76.9,,师范,,云南,,https://www.shanghairanking.cn/_uni/logo-jpg/9311830300.jpg
+吕梁学院,Luliang University,559,76.3,,师范,,山西,,
+新疆工程学院,Xinjiang Institute of Engineering,560,75.5,,理工,,新疆,,https://www.shanghairanking.cn/_uni/logo-jpg/9851006000.jpg
+普洱学院,Puer University,561,75.1,,师范,,云南,,https://www.shanghairanking.cn/_uni/logo-jpg/1659450100.jpg
+萍乡学院,Pingxiang University,562,73.2,,综合,,江西,,https://www.shanghairanking.cn/_uni/logo-jpg/2474541200.jpg
+集宁师范学院,Jining Normal University,563,72.6,,师范,,内蒙古,,https://www.shanghairanking.cn/_uni/logo-jpg/1592444300.jpg
+滇西科技师范学院,West Yunnan University,564,72.2,,师范,,云南,,https://www.shanghairanking.cn/_uni/logo-jpg/4442061900.jpg
+太原工业学院,Taiyuan Institute of Technology,565,71.8,,理工,,山西,,https://www.shanghairanking.cn/_uni/logo/18568381.png
+新疆理工学院,Xinjiang Institute of Technology,566,71.7,,综合,,新疆,,https://www.shanghairanking.cn/_uni/logo-jpg/8039186500.jpg
+广西科技师范学院,Guangxi Science and Technology Normal University,567,71.5,,师范,,广西,,https://www.shanghairanking.cn/_uni/logo-jpg/8668105300.jpg
+昭通学院,Zhaotong University,568,71.2,,师范,,云南,,https://www.shanghairanking.cn/_uni/logo-jpg/6432819300.jpg
+忻州师范学院,Xinzhou Teachers University,569,71.1,,师范,,山西,,https://www.shanghairanking.cn/_uni/logo/87333253.png
+河北石油职业技术大学,Hebei University of Technology City College,570,70.7,,理工,,河北,,https://www.shanghairanking.cn/_uni/logo-jpg/4513491700.jpg
+昌吉学院,Changji University,571,70.1,,师范,,新疆,,https://www.shanghairanking.cn/_uni/logo-jpg/1738244300.jpg
+琼台师范学院,Qiongtai Normal University,572,69.8,,师范,,海南,,https://www.shanghairanking.cn/_uni/logo-jpg/8817040400.jpg
+鄂尔多斯应用技术学院,Ordos Institute of Technology,573,69.3,,综合,,内蒙古,,https://www.shanghairanking.cn/_uni/logo-jpg/7932247000.jpg
+黑龙江工业学院,Heilongjiang University of Technology,574,68.2,,理工,,黑龙江,,https://www.shanghairanking.cn/_uni/logo-jpg/4358643700.jpg
+新疆政法学院,College of Science &amp; Technology Shihezi University,575,66.9,,综合,,新疆,,https://www.shanghairanking.cn/_uni/logo-jpg/5488556200.jpg
+山西能源学院,Shanxi Institute of Energy,576,64.9,,综合,,山西,,https://www.shanghairanking.cn/_uni/logo-jpg/7446893200.jpg
+赣东学院,"East China Institute of Technology, Yangtze River College",577,64.2,,理工,,江西,,https://www.shanghairanking.cn/_uni/logo-jpg/4406712200.jpg
+河套学院,Hetao University,578,64.1,,综合,,内蒙古,,https://www.shanghairanking.cn/_uni/logo-jpg/6352286800.jpg
+亳州学院,Bozhou University,579,63.6,,师范,,安徽,,https://www.shanghairanking.cn/_uni/logo/46908529.png
+豫章师范学院,Yuzhang Normal University,580,62.1,,师范,,江西,,https://www.shanghairanking.cn/_uni/logo-jpg/9530226800.jpg
+山西工程技术学院,Shanxi Institute of Technology,581,61.9,,理工,,山西,,https://www.shanghairanking.cn/_uni/logo-jpg/5595557000.jpg
+太原学院,Taiyuan University,582,58.2,,理工,,山西,,https://www.shanghairanking.cn/_uni/logo-jpg/6208575900.jpg
